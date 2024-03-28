@@ -1,6 +1,6 @@
 {
   "name": "gemini_clone",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://guillermoalvaradocs.github.io/gemini_clone",
   "type": "module",
