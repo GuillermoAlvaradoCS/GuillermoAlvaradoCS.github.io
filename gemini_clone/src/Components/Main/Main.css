@@ -110,6 +110,7 @@
     padding: 0px 5%;
     max-height: 70vh;
     overflow-y: scroll;
+    overscroll-behavior-y: auto;
 }
 .result::-webkit-scrollbar{
     display: none;
