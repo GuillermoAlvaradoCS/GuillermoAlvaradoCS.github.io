@@ -113,8 +113,8 @@
     overflow-y: scroll;
 }
 .result::-webkit-scrollbar{
-    /* display: none; */
     background: transparent;
+    width: 15px;
   }
 .result::-webkit-scrollbar-thumb{
     background: linear-gradient(16deg, #4b90ff,#ff5546);
